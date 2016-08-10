@@ -2,9 +2,25 @@
   display: none;
   margin: 10px;
   padding: 4px;
-  border: solid 2px;
+  border: solid 4px;
 }
 
 h1 {
   text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+}
+
+body {
+  background-color: #fff1a3
+
+}
+
+#survey p {
+  font-size: 12pt;
 }
