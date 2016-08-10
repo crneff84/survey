@@ -1,3 +1,10 @@
 #survey {
   display: none;
+  margin: 10px;
+  padding: 4px;
+  border: solid 2px;
+}
+
+h1 {
+  text-align: center;
 }
