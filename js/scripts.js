@@ -12,6 +12,7 @@ $(document).ready(function() {
     $(".genre").text(music);
     $(".color").text(favoriteColor);
     $("#survey").show();
+    document.getElementById("survey").style.borderColor = favoriteColor;
     event.preventDefault();
 
   });
